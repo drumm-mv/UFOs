@@ -10,23 +10,23 @@ Produce a webpage containing a dynamic table. Update to provide a more in-depth 
 ## Results:
 Opening the site a person is no longer limited to having to view every sighting for the date they search or even needing to know the date.
 
-![image_name](/resource/initial_view.png)
+![image_name](/resources/initial_view.png)
 
 A person may not know what the date was that the sighting they are looking for occurred on but they may know the location. For example "el cajon, ca"
 
-![image_name](/resource/elcajon_ca_view.png)
+![image_name](/resources/elcajon_ca_view.png)
 
 Now that they know the sighting they wanted to see occurred on "1/4/2010", they can add the date to the search criteria and see that listing by itself.
 
-![image_name](/resource/elcajon_ca_01042010_view.png)
+![image_name](/resources/elcajon_ca_01042010_view.png)
 
 Now they want to see other sightings in "ca" on the same date. They can add the state as "ca" in the search criteria and remove the city name.
 
-![image_name](/resource/all_ca_01042010_view.png)
+![image_name](/resources/all_ca_01042010_view.png)
 
 And finally after seeing that there were two "light" anomalies on "1/4/2010" in "ca", now they want to see how many other locations also had "light" sightings on the same day. So they can just remove the "ca" from the state option and add "light" to the shape category.
 
-![image_name](/resource/all_lights_on_01042010_view.png)
+![image_name](/resources/all_lights_on_01042010_view.png)
 
 
 ## Summary:
